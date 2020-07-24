@@ -2,7 +2,7 @@ public class Helloworld
 {
      public static void main(String[] args)
    {
-        System.out.println("hello to terminal command");
+        System.out.println("hello,this change is done by other developer");
          while(true)
            {
             try{
