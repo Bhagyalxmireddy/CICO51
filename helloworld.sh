@@ -1,4 +1,5 @@
-public class Helloworld
+
+public class helloworld
 {
      public static void main(String[] args)
    {
@@ -10,7 +11,7 @@ public class Helloworld
            {
             try{
             Thread.sleep(6000);
-System.out.println("hello to teminal command");
+System.out.println("this is my master branch");
              }catch(Exception e){}
             }
      }
