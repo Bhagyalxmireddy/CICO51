@@ -12,8 +12,7 @@ public class helloworld
             try{
             Thread.sleep(6000);
           System.out.println("this is my1234 master branch");
-         System.out.println("this is my new devlop branch");
-         System.out.println("the is my new develop brand and the feature branch");
+         System.out.println("this is my new branch");
              }catch(Exception e){}
             }
      }
