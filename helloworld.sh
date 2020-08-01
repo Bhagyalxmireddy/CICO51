@@ -17,10 +17,7 @@ public class helloworld
           System.out.println("this is my new branch develop"); 
           System.out.println("this is my new branch");
           System.out.println("this is my new branch develop");
-          System.out.println("creating the conflict");
-          
-          
-          
+          System.out.println("creating the new conflict");
              }catch(Exception e){}
             }
      }
